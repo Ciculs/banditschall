@@ -5,7 +5,9 @@
 > `Host: bandit.labs.overthewire.org`
 > `Port: 2220`
 
-## lv0: bằng cách dùng lệnh "ls -a" , ta liệt kê ra được các file,
+## **Bandit Level 0 → Level 1**
+
+Bằng cách dùng lệnh "ls -a" , ta liệt kê ra được các file có trong folder.
 
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
