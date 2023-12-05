@@ -21,7 +21,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-`
 > ![imgs](/imgs/lv1.png)
 
 
-> Password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+> Password: **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi**
 
 ## **Bandit Level 2 → Level 3**
 
@@ -30,7 +30,7 @@ Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read.,
 > ![imgs](/imgs/lv2.png)
 
 
-> aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+> Password: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 
 ## **Bandit Level 3 → Level 4**:
 
