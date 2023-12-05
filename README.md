@@ -52,7 +52,9 @@ Dùng lệnh `ls -la` , `cd inhere`, dùng lệnh `ls -la` , có n file trong đ
 
 ## **Bandit Level 5 → Level 6**
 
-P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
+( dùng lệnh "ls -la" , `cd inhere`, dùng lệnh `file -size 1033c để tìm file theo đề bài, thấy file `./maybehere07/.file2\`, đọc file , có flag.
+
+> P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 ## **Bandit Level 6 → Level 7**
 
