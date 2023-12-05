@@ -12,4 +12,4 @@
 
 ## lv5: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU ( dùng lệnh "ls -la" , "cd inhere", dùng lệnh "file -size 1033c" để tìm file theo đề bài, thấy file "./maybehere07/.file2", đọc file , có flag.
 
-## lv6:
+## lv6: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S ( dùng lệnh "ls -la" , không thấy file nào, đọc mô tả của chall trên overthewire , thấy (img). Ta dùng lệnh "find / -user bandit7 -group bandit6 -size 33c 2&gt;/dev/null" để tìm những file thuộc quyền của user bandit7 , group6 và size = 33bytes. 2&gt;/dev/null để đưa error vào /dev/null. Ta tìm được file "/var/lib/dpkg/info/bandit7.password" phù hợp 3 điều kiện đề bài , "cat /var/lib/dpkg/info/bandit7.password" , có flag.
