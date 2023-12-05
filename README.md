@@ -25,6 +25,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-`
 
 ## **Bandit Level 2 → Level 3**
 
+dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read
 aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG (  , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
 
 ## **Bandit Level 3 → Level 4**:
