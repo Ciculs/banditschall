@@ -11,9 +11,16 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 > ![imgs](/imgs/lv0)
 
+
 > NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
-## lv1: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi ( dùng lệnh "ls -la", ta thấy file "-" có thể read , "cat ./- " để đọc file , có flag)
+## **Bandit Level 1 → Level 2**
+
+dùng lệnh "ls -la", ta thấy file "-" có thể read.
+
+> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+
+(  , "cat ./- " để đọc file , có flag)
 
 ## lv2: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ( dùng lệnh "ls -la", ta thấy file "spaces in this filename" có thể read , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
 
