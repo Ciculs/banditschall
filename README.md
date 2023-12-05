@@ -5,7 +5,7 @@
 > `Host: bandit.labs.overthewire.org`
 > `Port: 2220`
 
-## lv0: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL ( bằng cách dùng lệnh "ls -a" , ta liệt kê ra được các file, , "cat readme" , có flag)
+## lv0: bằng cách dùng lệnh "ls -a" , ta liệt kê ra được các file, NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL  "cat readme" , có flag)
 
 ## lv1: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi ( dùng lệnh "ls -la", ta thấy file "-" có thể read , "cat ./- " để đọc file , có flag)
 
