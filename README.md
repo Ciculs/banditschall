@@ -16,11 +16,11 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 ## **Bandit Level 1 → Level 2**
 
-dùng lệnh "ls -la", ta thấy file "-" có thể read.
+dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./- ` để đọc file , có flag
 
 > rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-(  , "cat ./- " để đọc file , có flag)
+(  , )
 
 ## lv2: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ( dùng lệnh "ls -la", ta thấy file "spaces in this filename" có thể read , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
 
