@@ -81,3 +81,37 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 > Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 
 ## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 8 → Level 9**
+
+## **Bandit Level 10 → Level 11**
+
+## **Bandit Level 11 → Level 10**
+
+## **Bandit Level 10 → Level 8**
+
+## **Bandit Level 10 → Level 8**
+
+## **Bandit Level 10 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
+
+## **Bandit Level 7 → Level 8**
