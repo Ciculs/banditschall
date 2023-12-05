@@ -59,7 +59,9 @@ Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nh
 > ![imgs](/imgs/manfind.png)
 
 
-> Thấy file `./maybehere07/.file2`, đọc file , có flag.
+> Thấy file`./maybehere07/.file2`, đọc file bằng lệnh`cat`, có flag.
+>
+> ![imgs](/imgs/lv5.png)
 
 > P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
