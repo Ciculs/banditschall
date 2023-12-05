@@ -54,7 +54,9 @@ Dùng lệnh `ls -la` , `cd inhere`, dùng lệnh `ls -la` , có n file trong đ
 
 Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nhiều folder.
 
-> dùng lệnh `file -size 1033c` để tìm file theo đề bài, thấy file `./maybehere07/.file2`, đọc file , có flag.
+> Dùng lệnh `file -size 1033c` để tìm file theo đề bài.
+
+> , thấy file `./maybehere07/.file2`, đọc file , có flag.
 
 > P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
