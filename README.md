@@ -84,9 +84,13 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 
 ## **Bandit Level 8 → Level 9**
 
+## **Bandit Level 9 → Level 10**
+
 ## **Bandit Level 10 → Level 11**
 
 ## **Bandit Level 11 → Level 12**
+
+## **Bandit Level 12 → Level 9**
 
 ## **Bandit Level 13 → Level 14**
 
@@ -96,22 +100,4 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 
 ## **Bandit Level 18 → Level 19**
 
-## **Bandit Level 19 → Level 2**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
-
-## **Bandit Level 7 → Level 8**
+## **Bandit Level 19 → Level 20**
