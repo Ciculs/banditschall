@@ -12,7 +12,7 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 > ![imgs](/imgs/lv0.png)
 
 
-> NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+> Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## **Bandit Level 1 → Level 2**
 
