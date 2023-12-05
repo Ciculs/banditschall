@@ -90,11 +90,15 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 
 ## **Bandit Level 11 → Level 12**
 
-## **Bandit Level 12 → Level 9**
+## **Bandit Level 12 → Level 13**
 
 ## **Bandit Level 13 → Level 14**
 
+## **Bandit Level 14 → Level 15**
+
 ## **Bandit Level 15 → Level 16**
+
+## **Bandit Level 16 → Level 17**
 
 ## **Bandit Level 17 → Level 18**
 
