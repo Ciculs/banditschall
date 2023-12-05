@@ -16,14 +16,17 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 ## **Bandit Level 1 → Level 2**
 
-dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./- ` để đọc file , có flag
+Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-` để đọc file , có flag
 
 > ![imgs](/imgs/lv1.png)
 
 
 > rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-## lv2: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ( dùng lệnh "ls -la", ta thấy file "spaces in this filename" có thể read , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
+## **Bandit Level 2 → Level 3**
+
+\
+: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ( dùng lệnh "ls -la", ta thấy file "spaces in this filename" có thể read , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
 
 ## lv3: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe ( dùng lệnh "ls -la", có folder tên "inhere" , dùng lệnh "cd" để đọc dir , tiếp tục dùng "ls -la" để xem file có trong folder , thấy có 1 file ẩn tên ".hidden" , "cat .hidden" , có flag
 
