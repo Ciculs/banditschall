@@ -7,7 +7,7 @@
 
 ## **Bandit Level 0 → Level 1**
 
-Bằng cách dùng lệnh "ls -a" , ta liệt kê ra được các file có trong folder.
+Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder.
 
 NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
