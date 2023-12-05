@@ -58,7 +58,8 @@ Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nh
 >
 > ![imgs](/imgs/manfind.png)
 
-> , thấy file`./maybehere07/.file2`, đọc file , có flag.
+
+> Thấy file `./maybehere07/.file2`, đọc file , có flag.
 
 > P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
