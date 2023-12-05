@@ -12,7 +12,7 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 > ![imgs](/imgs/lv0.png)
 
 
-> Password: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+> Password:  **NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL**
 
 ## **Bandit Level 1 → Level 2**
 
@@ -21,7 +21,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-`
 > ![imgs](/imgs/lv1.png)
 
 
-> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+> Password rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## **Bandit Level 2 → Level 3**
 
@@ -62,6 +62,7 @@ Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nh
 > Thấy file`./maybehere07/.file2`, đọc file bằng lệnh`cat`, có flag.
 >
 > ![imgs](/imgs/lv5.png)
+
 
 > P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
