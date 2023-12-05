@@ -9,7 +9,7 @@
 
 Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder. Thấy có file readme. Dùng lệnh `cat readme` để đọc file, có flag:
 
-> ![imgs](/imgs/lv0)
+> ![imgs](/imgs/lv0.png)
 
 
 > NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
@@ -18,9 +18,9 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./- ` để đọc file , có flag
 
-> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+> ![imgs](/imgs/lv1.png)
 
-(  , )
+> rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
 ## lv2: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG ( dùng lệnh "ls -la", ta thấy file "spaces in this filename" có thể read , "cat space\*" để đọc file ( thêm dấu \* vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat "filename" để đọc), có flag)
 
