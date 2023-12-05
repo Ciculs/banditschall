@@ -21,7 +21,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-`
 > ![imgs](/imgs/lv1.png)
 
 
-> Password: **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi**
+> Password:  **rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi**
 
 ## **Bandit Level 2 → Level 3**
 
@@ -30,7 +30,7 @@ Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read.,
 > ![imgs](/imgs/lv2.png)
 
 
-> Password: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
+> Password:  **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 
 ## **Bandit Level 3 → Level 4**:
 
@@ -39,7 +39,7 @@ Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh `cd` để đọc
 > ![imgs](/imgs/lv3.png)
 
 
-> Password: **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
+> Password:  **2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe**
 
 ## **Bandit Level 4 → Level 5**
 
@@ -48,7 +48,7 @@ Dùng lệnh `ls -la` , `cd inhere`, dùng lệnh `ls -la` , có n file trong đ
 > ![imgs](/imgs/lv4.png)
 
 
-> Password: **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
+> Password:  **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
 
 ## **Bandit Level 5 → Level 6**
 
