@@ -34,7 +34,7 @@ Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read.,
 
 ## **Bandit Level 3 → Level 4**:
 
-Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh "cd\` để đọc dir , tiếp tục dùng "ls -la" để xem file có trong folder , thấy có 1 file ẩn tên ".hidden" , "cat .hidden" , có flag
+Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh `cd` để đọc dir , tiếp tục dùng `ls -la` để xem file có trong folder , thấy có 1 file ẩn tên `.hidden` , \`cat .hidden" , có flag
 
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe (
 
