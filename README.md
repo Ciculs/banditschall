@@ -45,7 +45,7 @@ Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh `cd` để đọc
 
 Dùng lệnh `ls -la` , `cd inhere`, dùng lệnh `ls -la` , có n file trong đó ,toàn bộ file đều đọc được , đọc qua 1 file thì thấy file không đọc được(không phải plain text). dùng lệnh `file` để xem dạng file bằng cách `file ./*`, thấy có file `-file07` là ASCII , có thể đọc được , `cat ./-file07` , có flag
 
-> ![imgs](/imgs)
+> ![imgs](/imgs/lv4.png)
 
 
 > lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
