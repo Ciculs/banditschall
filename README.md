@@ -39,7 +39,7 @@ Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh `cd` để đọc
 > ![imgs](/imgs/lv3.png)
 
 
-> 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+> Password: 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
 ## **Bandit Level 4 → Level 5**
 
