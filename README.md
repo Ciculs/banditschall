@@ -25,7 +25,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-`
 
 ## **Bandit Level 2 → Level 3**
 
-dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read., `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc), có flag.
+Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read., `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc), có flag.
 
 > ![imgs](/imgs/lv2.png)
 
@@ -34,7 +34,9 @@ dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read.,
 
 ## **Bandit Level 3 → Level 4**:
 
-2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe ( dùng lệnh "ls -la", có folder tên "inhere" , dùng lệnh "cd" để đọc dir , tiếp tục dùng "ls -la" để xem file có trong folder , thấy có 1 file ẩn tên ".hidden" , "cat .hidden" , có flag
+Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh "cd\` để đọc dir , tiếp tục dùng "ls -la" để xem file có trong folder , thấy có 1 file ẩn tên ".hidden" , "cat .hidden" , có flag
+
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe (
 
 ## **Bandit Level 4 → Level 5**
 
