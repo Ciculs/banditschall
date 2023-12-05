@@ -9,7 +9,7 @@
 
 Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder.
 
-NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+> NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
 ## lv1: rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi ( dùng lệnh "ls -la", ta thấy file "-" có thể read , "cat ./- " để đọc file , có flag)
 
