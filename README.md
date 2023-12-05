@@ -73,7 +73,7 @@ Dùng lệnh `ls -la` , không thấy file nào, đọc mô tả của chall tr�
 > ![imgs](/imgs/otwlv6.png)
 
 
-Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` để tìm những file thuộc quyền của user bandit7 , group6 và size = 33bytes.Dùng `2>/dev/null` để đưa error vào `/dev/null`. Ta tìm được file "/var/lib/dpkg/info/bandit7.password" phù hợp 3 điều kiện đề bài , "cat /var/lib/dpkg/info/bandit7.password" , có flag.
+Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` để tìm những file thuộc quyền của `user bandit7 `, `group6` và `size = 33 bytes` .Dùng `2>/dev/null` để đưa error vào `/dev/null`. Ta tìm được file "/var/lib/dpkg/info/bandit7.password" phù hợp 3 điều kiện đề bài , "cat /var/lib/dpkg/info/bandit7.password" , có flag.
 
 > ![imgs](/imgs/lv6.png)
 
