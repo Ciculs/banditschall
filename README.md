@@ -285,7 +285,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 > ![imgs](/imgs/lv16pass.png)
 
 
-Password: \*\*VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
+Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 ## **Bandit Level 17 → Level 18**
 
