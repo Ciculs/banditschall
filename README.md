@@ -194,6 +194,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Giải nén bằng `gzip`, ta tiếp tục có file `1`.
 - Dùng `file` để xác định, đây là 1 file `tar`
 
+> ![imgs](/imgs/bandit12/4.png)
+
+
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
