@@ -40,7 +40,10 @@
 
 ## **Bandit Level 3 → Level 4**:
 
-Dùng lệnh `ls -la`, có folder tên `inhere` , dùng lệnh `cd` để đọc dir , tiếp tục dùng `ls -la` để xem file có trong folder , thấy có 1 file ẩn tên `.hidden` , `cat .hidden` , có flag
+- Dùng lệnh `ls -la`, có folder tên `inhere` , 
+- Dùng lệnh `cd` để đọc dir . 
+- Tiếp tục dùng `ls -la` để xem file có trong folder , thấy có 1 file ẩn tên `.hidden`.
+- `cat .hidden` , có flag
 
 > ![imgs](/imgs/lv3.png)
 
