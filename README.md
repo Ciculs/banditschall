@@ -235,7 +235,9 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 Ở bài này , đề bài hint kết nối tới `localhost` ở port `30000` và nhập password hiện tại sẽ ra password cho level tiếp theo.
 
 - Sau 1 hồi phân vân thì em thấy chỉ có netcat khả thi cho trường hợp này.
-- Nhập lệnh `nc localhost 30000` rồi điền pass của 
+- Nhập lệnh `nc localhost 30000` , thấy connected ,điền pass của lv hiện tại , ta có pass.
+
+  Password: **jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
 
 ## **Bandit Level 15 → Level 16**
 
