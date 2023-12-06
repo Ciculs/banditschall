@@ -198,7 +198,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 
 - Giải nén file bằng `tar -xf` , có ra 1 file `data5.bin`
-- Dùng `file`
+- Dùng `file` để xác định kiểu file, thấy là 1 file `tar` , tiếp tục giải nén.
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
