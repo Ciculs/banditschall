@@ -346,8 +346,12 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 
 ## **Bandit Level 25 → Level 26**
 
-## **Bandit Level 26 → Level 25**
+## **Bandit Level 26 → Level 27**
 
-## **Bandit Level 24 → Level 25**
+## **Bandit Level 27 → Level 28**
 
-## **Bandit Level 24 → Level 25**
+## **Bandit Level 28 → Level 29**
+
+## **Bandit Level 29 → Level 30**
+
+## **Bandit Level 30 → Level 31**
