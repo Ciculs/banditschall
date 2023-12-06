@@ -173,6 +173,8 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 > ![imgs](/imgs/1.png)
 
 
+- Ta đổi đuôi file thành `gz` để giải nén.
+
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
