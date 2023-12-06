@@ -313,4 +313,6 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 
 ÁP DỤNG:
 
+- Dùng lệnh \`
+
 ## **Bandit Level 19 → Level 20**
