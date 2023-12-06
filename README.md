@@ -257,7 +257,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 Đề bài hint cho ta biết password cho lv tiếp theo có thể lấy bằng cách nhập password lv hiện tại vào 1 port ssl của localhost.
 
-- Bước đầu , ta d
+- Bước đầu , ta dùng `nmap` để scan port mở của localhost bằng cách \`nmap -p 31000-32000 localhost 
 
 ## **Bandit Level 17 → Level 18**
 
