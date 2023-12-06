@@ -7,7 +7,9 @@
 
 ## **Bandit Level 0 → Level 1**
 
-Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder. Thấy có file readme. Dùng lệnh `cat readme` để đọc file, có flag:
+- Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder. 
+- Thấy có file readme. 
+- Dùng lệnh `cat readme` để đọc file, có flag:
 
 > ![imgs](/imgs/lv0.png)
 
@@ -16,7 +18,8 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 ## **Bandit Level 1 → Level 2**
 
-Dùng lệnh `ls -la`, ta thấy file `-` có thể read. 
+- Dùng lệnh `ls -la`, ta thấy file `-` có thể read. 
+
 
 - Dùng lệnh `cat ./-` để đọc file , có flag
 
@@ -27,7 +30,7 @@ Dùng lệnh `ls -la`, ta thấy file `-` có thể read.
 
 ## **Bandit Level 2 → Level 3**
 
-Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read., `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc), có flag.
+- Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read., `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc), có flag.
 
 > ![imgs](/imgs/lv2.png)
 
