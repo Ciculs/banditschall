@@ -232,7 +232,9 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 14 → Level 15**
 
-Ở bài này , đề bài hint kết nối tới `localhost` ở port `30000` và nhập password hiện tại sẽ ra password cho
+Ở bài này , đề bài hint kết nối tới `localhost` ở port `30000` và nhập password hiện tại sẽ ra password cho level tiếp theo.
+
+- Sau 1 hồi phân vân thì em thấy chỉ có netcat mới
 
 ## **Bandit Level 15 → Level 16**
 
