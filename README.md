@@ -204,7 +204,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 > ![imgs](/imgs/bandit12/5.png)
 
 
-- Cứ tiếp tục giải nén , ta có file dât
+- Cứ tiếp tục giải nén , ta có file `data8` , là 1 file \`Á.
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
