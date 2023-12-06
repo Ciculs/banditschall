@@ -30,7 +30,8 @@
 
 ## **Bandit Level 2 → Level 3**
 
-- Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read., `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc), có flag.
+- Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read. 
+- `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc). Có flag.
 
 > ![imgs](/imgs/lv2.png)
 
