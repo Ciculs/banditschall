@@ -336,7 +336,7 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 
 ## **Bandit Level 20 → Level 21**
 
-Ở lv này , server có 1 file `setuid` ở homedir, có chức năng kết nối tới port ta chỉ định. Nếu p
+Ở lv này , server có 1 file `setuid` ở homedir, có chức năng kết nối tới port ta chỉ định. Nếu đọc text ở connection trùng với pass của bandit20 , cho pass
 
 ## **Bandit Level 21 → Level 22**
 
