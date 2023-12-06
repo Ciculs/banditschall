@@ -187,9 +187,11 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Dùng `bzip2 -d 1.bz2` để giải nén , có file `1`
 - Dùng `file` để xác định file `1` , thấy đó là 1 file `gzip`
 
+> ![imgs](/imgs/bandit12/3.png)
+
 
 - Tiếp tục đổi đuôi bằng `mv 1 1.gz`
-- Giải nén bằng gzip
+- Giải nén bằng `gzip`
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
