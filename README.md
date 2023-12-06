@@ -228,7 +228,7 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
   > ![imgs](/imgs/lv13.png)
 
 
-  Password
+  Password: **fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq**
 
 ## **Bandit Level 14 → Level 15**
 
