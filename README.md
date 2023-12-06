@@ -323,3 +323,5 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 
 ## **Bandit Level 19 → Level 20**
+
+Đề bài có hint về loại file `setuid` , sau khi đoc
