@@ -262,7 +262,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
   > ![imgs](/imgs/lv16nmap.png)
 
 
-- Ta kết nối tới từng port bằng `openssl` và n
+- Ta kết nối tới từng port bằng `openssl` và nhận thấy port
 
 ## **Bandit Level 17 → Level 18**
 
