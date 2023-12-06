@@ -84,7 +84,10 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 
 Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. Theo như đề bài , ta biết password nằm cạnh cụm `millionth`.
 
-> !\[ imgs\]
+> ![imgs](/imgs/debai7.png)
+
+
+> Ta dùng lệnh `grep` để tìm
 
 ## **Bandit Level 8 → Level 9**
 
