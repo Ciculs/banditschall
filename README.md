@@ -16,7 +16,9 @@ Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có tron
 
 ## **Bandit Level 1 → Level 2**
 
-Dùng lệnh `ls -la`, ta thấy file `-` có thể read. Dùng lệnh `cat ./-` để đọc file , có flag
+Dùng lệnh `ls -la`, ta thấy file `-` có thể read. 
+
+- Dùng lệnh `cat ./-` để đọc file , có flag
 
 > ![imgs](/imgs/lv1.png)
 
