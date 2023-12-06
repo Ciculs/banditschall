@@ -114,6 +114,8 @@ Password: **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 
 ## **Bandit Level 10 → Level 11**
 
+Theo đề bài thì password dc enc base64.
+
 ## **Bandit Level 11 → Level 12**
 
 ## **Bandit Level 12 → Level 13**
