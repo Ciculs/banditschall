@@ -269,7 +269,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 - Ta tạo 1 folder ở `/tmp` và đi đến folder.
 - Dùng lệnh `nano test.private` để tạo 1 file và paste đoạn RSA vào đó.
-- Lưu
+- Lưu file và làm theo như
 
 ## **Bandit Level 17 → Level 18**
 
