@@ -324,4 +324,6 @@ Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 
 ## **Bandit Level 19 → Level 20**
 
-Đề bài có hint về loại file `setuid` , sau khi đọc wiki, ta thấy file đó cấp quyền tạm thời và có quyền exec các lệnh
+Đề bài có hint về loại file `setuid` , sau khi đọc wiki, ta thấy file đó cấp quyền tạm thời và có quyền exec các lệnh.
+
+- `ssh` với usr `bandit19` , dùng lệnh `ls` thấy có file \`
