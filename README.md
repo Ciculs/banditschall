@@ -186,7 +186,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Tiếp tục đổi đuôi file sang `bz2` bằng lệnh `mv 1 1.bz2`
 - Dùng `bzip2 -d 1.bz2` để giải nén , có file `1`
 - Dùng `file` để xác định file `1` , thấy đó là 1 file `gzip`
-- Tiếp tục đổi đuôi
+- Tiếp tục đổi đuôi bằng
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
