@@ -219,8 +219,13 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 - Sau khi ssh bằng usr bandit13 , dùng lệnh `ls` thấy có 1 file `sshkey.private` , là file sshkey cho usr bandit14.
 - Ta `ssh -i * bandit14@localhost` để login bằng bandit14.
 
-  > !\[
-- Sau khi ssh vào bandit14 , ta đọc file bằng lệnh `cat /etc/bandit_pass/bandit14` và có password
+  > 
+  >
+  > ![imgs](/imgs/lv13ssh.png)
+
+- Sau khi ssh vào bandit14 , ta đọc file bằng lệnh `cat /etc/bandit_pass/bandit14` và có password.
+
+  > !\[imgs\](/
 
 ## **Bandit Level 14 → Level 15**
 
