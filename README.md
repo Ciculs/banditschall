@@ -99,7 +99,7 @@
 
 ## **Bandit Level 7 → Level 8**
 
-Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. Theo như đề bài , ta biết password nằm cạnh cụm `millionth`.
+- Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. Theo như đề bài , ta biết password nằm cạnh cụm `millionth`.
 
 > ![imgs](/imgs/debai7.png)
 
