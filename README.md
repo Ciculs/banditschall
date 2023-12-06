@@ -183,6 +183,8 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 > ![imgs](/imgs/2.png)
 
 
+- Tiếp tục đổi đuôi file sang
+
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
