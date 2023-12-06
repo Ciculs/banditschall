@@ -113,7 +113,7 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 ## **Bandit Level 8 → Level 9**
 
 - Sau khi `ls` thì ta thấy có duy nhất 1 file.
-- `cat` file ra thì thấy có rất nhiều giá trị 
+- `cat` file ra thì thấy có rất nhiều giá trị
 - Theo đề bài , cần tìm ra 1 giá trị không bị trùng và duy nhất.
 - Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file.
 - Tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).
@@ -126,10 +126,10 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## **Bandit Level 9 → Level 10**
 
-- Đề bài nói password nằm trong file `data.txt` , là kí tự đọc được và đứng đằng sau vài dấu `=`. 
-- Đầu tiền , `ls` ra thì có duy nhất 1 file `data.txt` . 
-- Dùng lệnh `file` để xem dạng file của file này thì thấy là 1 file data(không thể đọc bằng `cat`). 
-- Ta dùng `strings` để đọc những file data như này và kết hợp với `grep` để tìm ra những dấu `=`. 
+- Đề bài nói password nằm trong file `data.txt` , là kí tự đọc được và đứng đằng sau vài dấu `=`.
+- Đầu tiền , `ls` ra thì có duy nhất 1 file `data.txt` .
+- Dùng lệnh `file` để xem dạng file của file này thì thấy là 1 file data(không thể đọc bằng `cat`).
+- Ta dùng `strings` để đọc những file data như này và kết hợp với `grep` để tìm ra những dấu `=`.
 - Lọc ra được vài kết quả thì với ta , cái dài nhất có vẻ là password, sau khi đăng nhập thử, xác định nó là password.
 
 > ![imgs](/imgs/lv9.png)
@@ -151,7 +151,7 @@ Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 
 ## **Bandit Level 11 → Level 12**
 
--  Ở lv này , cách làm tương tự như lv10 nhưng thay vì base64, chall dùng ROT13.
+- Ở lv này , cách làm tương tự như lv10 nhưng thay vì base64, chall dùng ROT13.
 
 > ![imgs](/imgs/lv11.png)
 
@@ -163,13 +163,13 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 ## **Bandit Level 12 → Level 13**
 
-- Sau 1 hồi tìm hiểu thì em biết `xxd` có thể tạo và reverse hexdump. 
-- Bước đầu , ta dùng tạo folder trong `/tmp` theo như đề bài và chuyển file `data.txt` qua đó cho tiện thực hiện. 
-- Sau đó , dùng lệnh `xxd -r * > 1` để reverse file `data` và xuất thành file `1`. 
+- Sau 1 hồi tìm hiểu thì em biết `xxd` có thể tạo và reverse hexdump.
+- Bước đầu , ta dùng tạo folder trong `/tmp` theo như đề bài và chuyển file `data.txt` qua đó cho tiện thực hiện.
+- Sau đó , dùng lệnh `xxd -r * > 1` để reverse file `data` và xuất thành file `1`.
 - Dùng lệnh file để xem dạng của file `1` thì thấy file `1` là 1 file `gzip` .
-- Dùng `mv` chuyển file `1` &gt; `1.bz`. 
-- Giải nén bằng `bzip -d 1.bz` (option -d dùng để xoá file bz gốc). 
-- Giải nén ra được 1 file `1`. 
+- Dùng `mv` chuyển file `1` &gt; `1.bz`.
+- Giải nén bằng `bzip -d 1.bz` (option -d dùng để xoá file bz gốc).
+- Giải nén ra được 1 file `1`.
 - Dùng lệnh `file 1`, ta thấy file `1` là 1 file bzip2 , tiếp tục dùng `mv` để đổi tên file từ `1` &gt; `1.bz2` , dùng lệnh `bzip2 -d` để giải nén file , ta được
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
