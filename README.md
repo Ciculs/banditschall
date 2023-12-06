@@ -259,7 +259,10 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 - Bước đầu , ta dùng `nmap` để scan port mở của localhost bằng cách `nmap -p 31000-32000 localhost` , có 5 port đang mở.
 
-  > !\[i
+  > ![imgs](/imgs/lv16nmap.png)
+
+
+- Có 5 pỏ
 
 ## **Bandit Level 17 → Level 18**
 
