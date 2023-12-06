@@ -201,8 +201,10 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Dùng `file` để xác định kiểu file, thấy là 1 file `tar` , tiếp tục giải nén.
 - Giải nén ra được file `data6.bin` , xác định bằng `file` , đây là 1 file `bzip2`
 
+> ![imgs](/imgs/bandit12/5.png)
 
-- Cứ tiếp tục giải nén , ta có
+
+- Cứ tiếp tục giải nén , ta có file dât
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
