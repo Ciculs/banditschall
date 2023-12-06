@@ -168,6 +168,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Sau đó , dùng lệnh `xxd -r * > 1` để reverse file `data` và xuất thành file `1`.
 - Dùng lệnh `file 1` để xem `1` là loại file gì.
 
+> ![imgs]()
+
+
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
