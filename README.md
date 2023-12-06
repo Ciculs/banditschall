@@ -197,6 +197,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 > ![imgs](/imgs/bandit12/4.png)
 
 
+- Giải nén file bằng `tar -xf` , có ra 1 file `data5.bin`
+- Dùng `file`
+
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
