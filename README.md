@@ -298,6 +298,11 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 - Có 2 dòng khác nhau , ta thử cả 2 cái bằng cách ssh lv18 , có flag.
 
+> ![imgs](/imgs/lv17correct.png)
+
+
+Password: \*\*
+
 ## **Bandit Level 18 → Level 19**
 
 ## **Bandit Level 19 → Level 20**
