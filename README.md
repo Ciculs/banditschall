@@ -320,6 +320,6 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 > ![imgs](/lv18ssh.png)
 
 
-Password: \*\*
+Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 
 ## **Bandit Level 19 → Level 20**
