@@ -342,8 +342,10 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 - Host netcat bằng lệnh `echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234 &` (dấu `&` ở cuối để tiến trình chạy ngầm).
 - Dùng file đã cho connect vào server netcat, có password.
 
-> ![imgs](/imgs/VL)
+> ![imgs](/imgs/LV20.png)
 
+
+Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 
 ## **Bandit Level 21 → Level 22**
 
