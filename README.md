@@ -243,6 +243,8 @@ Password:**jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
 
 ## **Bandit Level 15 → Level 16**
 
+**Bài này yêu cầu phải kết**
+
 ## **Bandit Level 16 → Level 17**
 
 ## **Bandit Level 17 → Level 18**
