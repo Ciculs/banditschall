@@ -306,8 +306,11 @@ Password: **hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg**
 ## **Bandit Level 18 → Level 19**
 
 Ở level này , sau khi `ssh` vào server , liền bị disconnect.
-M
-ục tiêu: tìm cách để `ssh` mà không bị kick.
-Sau
+
+Mục tiêu: tìm cách để `ssh` mà không bị kick.
+
+Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để tắt text-terminal.
+
+ÁP
 
 ## **Bandit Level 19 → Level 20**
