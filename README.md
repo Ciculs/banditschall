@@ -332,6 +332,8 @@ Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 > ![igms](/imgs/lv19.png)
 
 
+Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
+
 ## **Bandit Level 20 → Level 21**
 
 ## **Bandit Level 20 → Level 21**
