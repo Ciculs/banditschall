@@ -205,9 +205,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 
 - Cứ tiếp tục giải nén , ta có file `data8` , là 1 file `ASCII`.
-- `cat data8` , ta có flag.
+- `cat data8` , ta có password.
 
-> ![cái]()
+> ![?](/imgs/bandit12/6.png)
 
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
