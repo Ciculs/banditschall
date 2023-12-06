@@ -178,7 +178,10 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Ta được file `1`
 - Dùng lệnh `file` để xem dạng file `1` , ta thấy file `1` là 1 file `bzip2`.
 
-> !\[\]
+> Đây là 1 file`bzip2`
+>
+> ![imgs](/imgs/2.png)
+
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
