@@ -217,15 +217,18 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 Đề bài hint pass cho lv tiếp theo nằm ở file `/etc/bandit_pass/bandit14` , yêu cầu user bandit14.
 
 - Sau khi ssh bằng usr bandit13 , dùng lệnh `ls` thấy có 1 file `sshkey.private` , là file sshkey cho usr bandit14.
+
 - Ta `ssh -i * bandit14@localhost` để login bằng bandit14.
 
-  > 
-  >
   > ![imgs](/imgs/lv13ssh.png)
+
 
 - Sau khi ssh vào bandit14 , ta đọc file bằng lệnh `cat /etc/bandit_pass/bandit14` và có password.
 
-  > !\[imgs\](/
+  > ![imgs](/imgs/lv13.png)
+
+
+  Password
 
 ## **Bandit Level 14 → Level 15**
 
