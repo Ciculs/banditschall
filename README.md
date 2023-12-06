@@ -305,4 +305,6 @@ Password: **hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg**
 
 ## **Bandit Level 18 → Level 19**
 
+Ở level này , sau khi `ssh` vào server , liền bị disconnect. Mục tiêu: tìma ca
+
 ## **Bandit Level 19 → Level 20**
