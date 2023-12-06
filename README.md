@@ -96,7 +96,7 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
 ## **Bandit Level 8 → Level 9**
 
-Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy có rất nhiều dữ
+Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy có rất nhiều giá trị , theo đề bài , cần tìm ra 1 giá trị không bị trùng.
 
 ## **Bandit Level 9 → Level 10**
 
