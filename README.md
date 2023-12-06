@@ -289,6 +289,8 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 ## **Bandit Level 17 → Level 18**
 
+passwords.old and passwords.new
+
 ## **Bandit Level 18 → Level 19**
 
 ## **Bandit Level 19 → Level 20**
