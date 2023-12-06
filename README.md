@@ -7,8 +7,8 @@
 
 ## **Bandit Level 0 → Level 1**
 
-- Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder. 
-- Thấy có file readme. 
+- Bằng cách dùng lệnh `ls -a` , ta liệt kê ra được các file có trong folder.
+- Thấy có file readme.
 - Dùng lệnh `cat readme` để đọc file, có flag:
 
 > ![imgs](/imgs/lv0.png)
@@ -18,8 +18,7 @@
 
 ## **Bandit Level 1 → Level 2**
 
-- Dùng lệnh `ls -la`, ta thấy file `-` có thể read. 
-
+- Dùng lệnh `ls -la`, ta thấy file `-` có thể read.
 
 - Dùng lệnh `cat ./-` để đọc file , có flag
 
@@ -30,7 +29,7 @@
 
 ## **Bandit Level 2 → Level 3**
 
-- Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read. 
+- Dùng lệnh `ls -la`, ta thấy file `spaces in this filename` có thể read.
 - `cat space*` để đọc file ( thêm dấu `*` vào cuối file/dir để tự động hoàn thiện tên file nếu không trùng. hoặc có thể cat `filename` để đọc). Có flag.
 
 > ![imgs](/imgs/lv2.png)
@@ -40,8 +39,8 @@
 
 ## **Bandit Level 3 → Level 4**:
 
-- Dùng lệnh `ls -la`, có folder tên `inhere` , 
-- Dùng lệnh `cd` để đọc dir . 
+- Dùng lệnh `ls -la`, có folder tên `inhere` ,
+- Dùng lệnh `cd` để đọc dir .
 - Tiếp tục dùng `ls -la` để xem file có trong folder , thấy có 1 file ẩn tên `.hidden`.
 - `cat .hidden` , có flag
 
@@ -52,9 +51,9 @@
 
 ## **Bandit Level 4 → Level 5**
 
-- Dùng lệnh `ls -la` . 
+- Dùng lệnh `ls -la` .
 - Tiếp tục `cd inhere`
-- Dùng lệnh `ls -la` , có n file trong đó ,toàn bộ file đều đọc được , đọc qua 1 file thì thấy file không đọc được(không phải plain text). 
+- Dùng lệnh `ls -la` , có n file trong đó ,toàn bộ file đều đọc được , đọc qua 1 file thì thấy file không đọc được(không phải plain text).
 - Dùng lệnh `file` để xem dạng file bằng cách `file ./*`, thấy có file `-file07` là ASCII , có thể đọc được .
 - `cat ./-file07` , có flag
 
@@ -65,8 +64,8 @@
 
 ## **Bandit Level 5 → Level 6**
 
-- Dùng lệnh `ls -la` 
-- `cd inhere` 
+- Dùng lệnh `ls -la`
+- `cd inhere`
 - Tiếp tục `ls -la` , thấy có rất nhiều folder.
 
 > Dùng lệnh`find -size 1033c `để tìm file theo đề bài. Theo man thì option`-size`để lọc file theo size và c là đơn vị của bytes.
@@ -99,12 +98,12 @@
 
 ## **Bandit Level 7 → Level 8**
 
-- Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. Theo như đề bài , ta biết password nằm cạnh cụm `millionth`.
+- Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt` . Theo như đề bài , ta biết password nằm cạnh cụm `millionth`.
 
 > ![imgs](/imgs/debai7.png)
 
 
-> Ta dùng lệnh `grep `để tìm cụm từ có nội dung `millionth `và kết quả hiện ra là password cần tìm.
+> Ta dùng lệnh `grep` để tìm cụm từ có nội dung `millionth` và kết quả hiện ra là password cần tìm.
 >
 > ![imgs](/imgs/lv7.png)
 
@@ -135,6 +134,7 @@ Theo đề bài thì password dc enc base64. Sau khi `ls` , thấy có duy nhấ
 
 > ![imgs](/imgs/lv10.png)
 
+
 > ![imgs](/imgs/xaibochep.png)
 
 
@@ -145,6 +145,7 @@ Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 Ở lv này , cách làm tương tự như lv10 nhưng thay vì base64, chall dùng ROT13.
 
 > ![imgs](/imgs/lv11.png)
+
 
 > ![imgs](/imgs/xaibochep11.png)
 
