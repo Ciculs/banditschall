@@ -324,4 +324,4 @@ Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 
 ## **Bandit Level 19 → Level 20**
 
-Đề bài có hint về loại file `setuid` , sau khi đoc
+Đề bài có hint về loại file `setuid` , sau khi đọc wiki, ta thấy file đó cấp quyền tạm thời cho
