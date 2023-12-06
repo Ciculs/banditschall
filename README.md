@@ -268,9 +268,14 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 
 - Ta tạo 1 folder ở `/tmp` và đi đến folder.
+
 - Dùng lệnh `nano test.private` để tạo 1 file và paste đoạn RSA vào đó.
+
 - Lưu file và làm theo `ssh` tới server như lv13 nhưng file báo `bad permisson`.
-- Sau khi đọc trên stackoverflow thì thấy file chỉ cần quyền đọc của user nên ta phải su
+
+- Sau khi đọc trên stackoverflow thì thấy file chỉ cần quyền đọc của user nên ta phải sửa quyền bằng `chmod 600 *`.
+
+- Sau khi sửa quyền , `ssh` lại , đăng nhập thành công.
 
 ## **Bandit Level 17 → Level 18**
 
