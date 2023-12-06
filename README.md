@@ -121,6 +121,8 @@ Theo đề bài thì password dc enc base64. Sau khi `ls` , thấy có duy nhấ
 > ![imgs](/imgs/xaibochep.png)
 
 
+Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
+
 ## **Bandit Level 11 → Level 12**
 
 ## **Bandit Level 12 → Level 13**
