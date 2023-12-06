@@ -232,6 +232,8 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 14 → Level 15**
 
+Ở bài này , đề bài yêu cầu
+
 ## **Bandit Level 15 → Level 16**
 
 ## **Bandit Level 16 → Level 17**
