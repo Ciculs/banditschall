@@ -96,6 +96,8 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
 ## **Bandit Level 8 → Level 9**
 
+Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy có rất nhiều dữ
+
 ## **Bandit Level 9 → Level 10**
 
 ## **Bandit Level 10 → Level 11**
