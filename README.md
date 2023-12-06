@@ -293,7 +293,7 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 - Bằng lệnh `diff` , ta có thể dễ dàng nhận ra sự khác nhau giữa 2 file.
 
-> ![imgs](/lv17.png)
+> ![imgs](/imgs/lv17.png)
 
 
 - Có 2 dòng khác nhau , ta thử cả 2 cái bằng cách ssh lv18 , có flag.
