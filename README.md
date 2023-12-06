@@ -269,7 +269,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 - Ta tạo 1 folder ở `/tmp` và đi đến folder.
 - Dùng lệnh `nano test.private` để tạo 1 file và paste đoạn RSA vào đó.
-- Lưu file và làm theo `ssh` tới server như lv
+- Lưu file và làm theo `ssh` tới server như lv13 nhưng file báo sai permisson.
 
 ## **Bandit Level 17 → Level 18**
 
