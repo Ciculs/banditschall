@@ -87,8 +87,12 @@ Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. T
 > ![imgs](/imgs/debai7.png)
 
 
-> Ta dùng lệnh `grep` để tìm cụm từ có nội dung `millionth` và kết quả hiện ra là password cần tìm.
-> !
+> Ta dùng lệnh`grep`để tìm cụm từ có nội dung`millionth`và kết quả hiện ra là password cần tìm.
+>
+> ![imgs](/imgs/lv7.png)
+
+
+Password: \`\*
 
 ## **Bandit Level 8 → Level 9**
 
