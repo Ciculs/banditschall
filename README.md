@@ -170,7 +170,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 > Đây là 1 file`gzip`
 >
-> ![imgs](/imgs/1.png)
+> ![imgs](/imgs/bandit12/1.png)
 
 
 - Ta đổi đuôi file thành `gz` để giải nén bằng lệnh `mv 1 1.gz`
@@ -180,7 +180,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 > Đây là 1 file`bzip2`
 >
-> ![imgs](/imgs//2.png)
+> ![imgs](/imgs/bandit12/2.png)
 
 
 - Tiếp tục đổi đuôi file sang `bz2` bằng lệnh `mv 1 1.bz2`
