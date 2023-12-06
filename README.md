@@ -116,7 +116,8 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 - `cat` file ra thì thấy có rất nhiều giá trị 
 - Theo đề bài , cần tìm ra 1 giá trị không bị trùng và duy nhất.
 - Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file.
-- Tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).Sau khi lọc xong giá trị , ta có duy nhất 1 dòng, đó là password cần tìm.
+- Tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).
+- Sau khi lọc xong giá trị , ta có duy nhất 1 dòng, đó là password cần tìm.
 
 > ![imgs](/imgs/lv8.png)
 
@@ -125,7 +126,11 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## **Bandit Level 9 → Level 10**
 
-Đề bài nói password nằm trong file `data.txt` , là kí tự đọc được và đứng đằng sau vài dấu `=`. Đầu tiền , `ls` ra thì có duy nhất 1 file `data.txt` . Dùng lệnh `file` để xem dạng file của file này thì thấy là 1 file data(không thể đọc bằng `cat`). Ta dùng `strings` để đọc những file data như này và kết hợp với `grep` để tìm ra những dấu `=`. Lọc ra được vài kết quả thì với ta , cái dài nhất có vẻ là password, sau khi đăng nhập thử, xác định nó là password.
+- Đề bài nói password nằm trong file `data.txt` , là kí tự đọc được và đứng đằng sau vài dấu `=`. 
+- Đầu tiền , `ls` ra thì có duy nhất 1 file `data.txt` . 
+- Dùng lệnh `file` để xem dạng file của file này thì thấy là 1 file data(không thể đọc bằng `cat`). 
+- Ta dùng `strings` để đọc những file data như này và kết hợp với `grep` để tìm ra những dấu `=`. 
+- Lọc ra được vài kết quả thì với ta , cái dài nhất có vẻ là password, sau khi đăng nhập thử, xác định nó là password.
 
 > ![imgs](/imgs/lv9.png)
 
