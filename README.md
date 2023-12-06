@@ -191,7 +191,8 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 
 - Tiếp tục đổi đuôi bằng `mv 1 1.gz`
-- Giải nén bằng `gzip`
+- Giải nén bằng `gzip`, ta tiếp tục có file `1`.
+- Dùng file đe
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
