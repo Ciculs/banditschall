@@ -339,7 +339,7 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 Ở lv này , server có 1 file `setuid` ở homedir, có chức năng kết nối tới port ta chỉ định. Nếu đọc text ở connection trùng với pass của `bandit20` , cho pass của lv tiếp theo.
 
 - Bước đầu , ta phải host 1 server `netcat` với port tự chọn. Ở đây e chọn `1234`
-- Host netcat bằng lệnh `echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234 &`
+- Host netcat bằng lệnh `echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234 &` (dấu `&` ở cuối để tiến trình chạy ngầm).
 
 ## **Bandit Level 21 → Level 22**
 
