@@ -125,6 +125,9 @@ Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 
 ## **Bandit Level 11 → Level 12**
 
+Ở lv này , c
+Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
+
 ## **Bandit Level 12 → Level 13**
 
 ## **Bandit Level 13 → Level 14**
