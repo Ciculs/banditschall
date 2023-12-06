@@ -127,6 +127,11 @@ Password: **6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM**
 
 Ở lv này , cách làm tương tự như lv10 nhưng thay vì base64, chall dùng ROT13.
 
+> ![imgs](/imgs/lv11.png)
+
+> ![imgs](/imgs/xaibochep11.png)
+
+
 Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 ## **Bandit Level 12 → Level 13**
