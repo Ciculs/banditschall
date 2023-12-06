@@ -340,6 +340,10 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 
 - Bước đầu , ta phải host 1 server `netcat` với port tự chọn. Ở đây e chọn `1234`
 - Host netcat bằng lệnh `echo "VxCazJaVykI6W36BkBU0mJTCM8rR95XT" | nc -l -p 1234 &` (dấu `&` ở cuối để tiến trình chạy ngầm).
+- Dùng file đã cho connect vào server netcat, có password.
+
+> ![imgs](/imgs/VL)
+
 
 ## **Bandit Level 21 → Level 22**
 
