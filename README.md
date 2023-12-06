@@ -255,7 +255,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 ## **Bandit Level 16 → Level 17**
 
-Đề bài hint cho ta biết password cho lv tiếp the
+Đề bài hint cho ta biết password cho lv tiếp theo có thể lấy bằng cách nhập password lv hiện tại vào 1
 
 ## **Bandit Level 17 → Level 18**
 
