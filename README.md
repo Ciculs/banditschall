@@ -214,7 +214,7 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 13 → Level 14**
 
-Đề bài yêu cầu
+Đề bài hint pass cho lv tiếp theo nằm ở file `/etc/bandit_pass/bandit14`
 
 ## **Bandit Level 14 → Level 15**
 
