@@ -174,6 +174,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 
 - Ta đổi đuôi file thành `gz` để giải nén bằng lệnh `mv 1 1.gz`
+- Và
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
