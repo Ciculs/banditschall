@@ -289,7 +289,9 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 ## **Bandit Level 17 → Level 18**
 
-Đề bài cho 2 file `passwords.old` và `passwords.new`. Pass cho lv tiếp theo ở
+Đề bài cho 2 file `passwords.old` và `passwords.new`. Pass cho lv tiếp theo ở dòng khác nhau giữa 2 file này.
+
+- Bằng lệnh `diff` , ta có thể dẽ
 
 ## **Bandit Level 18 → Level 19**
 
