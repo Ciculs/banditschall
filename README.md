@@ -105,6 +105,8 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## **Bandit Level 9 → Level 10**
 
+Đề bài nói
+
 ## **Bandit Level 10 → Level 11**
 
 ## **Bandit Level 11 → Level 12**
