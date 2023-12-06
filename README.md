@@ -174,7 +174,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 
 - Ta đổi đuôi file thành `gz` để giải nén bằng lệnh `mv 1 1.gz`
-- Và giải nén file bằng `gzip -d 1.gz` (option -d để xoá file gzip sau khi đã giải nén)
+- Và giải nén file bằng `gzip -d 1.gz` (option -d để xoá file gzip sau khi đã giải nén).
+- Ta được file `1`
+- Dùng lệnh `file` để xem dạng file
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
