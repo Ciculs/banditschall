@@ -65,7 +65,7 @@
 
 ## **Bandit Level 5 → Level 6**
 
-Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nhiều folder.
+- Dùng lệnh `ls -la` , `cd inhere`, tiếp tục `ls -la` , thấy có rất nhiều folder.
 
 > Dùng lệnh`find -size 1033c`để tìm file theo đề bài. Theo man thì option`-size`để lọc file theo size và c là đơn vị của bytes.
 >
