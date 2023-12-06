@@ -267,7 +267,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 > ![imgs](/imgs/lv16rsa)
 
 
-- Bằng cách
+- Ta tạo 1 folder ở `/tmp` và
 
 ## **Bandit Level 17 → Level 18**
 
