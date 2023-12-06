@@ -104,7 +104,7 @@
 > ![imgs](/imgs/debai7.png)
 
 
-> Ta dùng lệnh`grep`để tìm cụm từ có nội dung`millionth`và kết quả hiện ra là password cần tìm.
+> Ta dùng lệnh `grep `để tìm cụm từ có nội dung `millionth `và kết quả hiện ra là password cần tìm.
 >
 > ![imgs](/imgs/lv7.png)
 
