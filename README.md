@@ -251,7 +251,7 @@ Bài này yêu cầu phải kết nối tới `localhost` qua port `30001` bằn
 > ![lv15](/imgs/lv15.png)
 
 
-Password: \*\*JQttfAp
+Password: \*\*JQttfApK4SeyHwDlI9SXGR50qcl0Ai
 
 ## **Bandit Level 16 → Level 17**
 
