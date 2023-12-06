@@ -248,8 +248,10 @@ Bài này yêu cầu phải kết nối tới `localhost` qua port `30001` bằn
 - Ta dùng `openssl`  để kết nối tới `localhost` bằng lệnh `openssl s_client localhost:30001` (s_client để thiết lập kết nối tới sv).
 - Nhập pass của lv này vào , ta có password.
 
-> ![lv15](/imgs/)
+> ![lv15](/imgs/lv15.png)
 
+
+Password: \*\*
 
 ## **Bandit Level 16 → Level 17**
 
