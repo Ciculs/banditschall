@@ -180,10 +180,11 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 > Đây là 1 file`bzip2`
 >
-> ![imgs](/imgs/2.png)
+> ![imgs](/imgs//2.png)
 
 
-- Tiếp tục đổi đuôi file sang
+- Tiếp tục đổi đuôi file sang `bz2` bằng lệnh `mv 1 1.bz2`
+- Dùng
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
