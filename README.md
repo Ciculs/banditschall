@@ -96,7 +96,10 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
 ## **Bandit Level 8 → Level 9**
 
-Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy có rất nhiều giá trị , theo đề bài , cần tìm ra 1 giá trị không bị trùng và duy nhất. Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file, tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).Sau khi lọc xong giá trị , ta có
+Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy có rất nhiều giá trị , theo đề bài , cần tìm ra 1 giá trị không bị trùng và duy nhất. Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file, tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).Sau khi lọc xong giá trị , ta có duy nhất 1 dòng, đó là password cần tìm.
+
+> ![imgs](/imgs/lv8.)
+
 
 ## **Bandit Level 9 → Level 10**
 
