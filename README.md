@@ -313,6 +313,6 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 
 ÁP DỤNG:
 
-- Dùng lệnh \`
+- Dùng lệnh `ssh bandit18@bandit.labs.overthewire.org -p 2220 -T` để kết nối tới server.
 
 ## **Bandit Level 19 → Level 20**
