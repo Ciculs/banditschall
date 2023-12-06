@@ -232,7 +232,7 @@ Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## **Bandit Level 14 → Level 15**
 
-Ở bài này , đề bài yêu cầu
+Ở bài này , đề bài hint kết nối tới `localhost` ở port `30000` và nhập password hiện tại sẽ ra password cho
 
 ## **Bandit Level 15 → Level 16**
 
