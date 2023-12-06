@@ -355,3 +355,7 @@ Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 ## **Bandit Level 29 → Level 30**
 
 ## **Bandit Level 30 → Level 31**
+
+## **Bandit Level 31 → Level 32**
+
+## **Bandit Level 32 → Level 33**
