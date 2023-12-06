@@ -138,6 +138,8 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 Sau 1 hồi tìm hiểu thì em biết `xxd` có thể tạo và reverse hexdump. Bước đầu , ta dùng tạo folder trong `/tmp` theo như đề bài và chuyển file `data.txt` qua đó cho tiện thực hiện. Sau đó , dùng lệnh `xxd -r * > 1` để reverse file `data` và xuất thành file `1`. Dùng lệnh file để xem dạng của file `1` thì thấy file `1` là 1 file `gzip` , dùng `mv` chuyển
 
+Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
+
 ## **Bandit Level 13 → Level 14**
 
 ## **Bandit Level 14 → Level 15**
