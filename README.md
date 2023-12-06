@@ -276,10 +276,16 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 
 - Sau khi sửa quyền , `ssh` lại , đăng nhập thành công.
+
+> ![imgs](/imgs/lv16chmod.png)
+
+
 - Tiếp tục cat file password của lv17 tại `/etc/bandit_pass/bandit17`, ta có password lv17.
 
 > ![imgs](/imgs/lv16pass.png)
 
+
+Password: \*\*VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 ## **Bandit Level 17 → Level 18**
 
