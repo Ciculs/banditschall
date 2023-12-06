@@ -171,7 +171,8 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Giải nén bằng `bzip -d 1.bz` (option -d dùng để xoá file bz gốc).
 - Giải nén ra được 1 file `1`.
 - Dùng lệnh `file 1`, ta thấy file `1` là 1 file bzip2.
-- Tiếp tục dùng `mv` để đổi tên file từ `1` &gt; `1.bz2` , dùng lệnh `bzip2 -d` để giải nén file , ta được
+- Tiếp tục dùng `mv` để đổi tên file từ `1` &gt; `1.bz2`
+- Dùng lệnh `bzip2 -d` để giải nén file , ta được file `1`
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
