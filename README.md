@@ -289,7 +289,7 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 ## **Bandit Level 17 → Level 18**
 
-passwords.old and passwords.new
+Đề bài cho 2 file `passwords.old` và `passwords.new`. Pass cho lv tiếp theo ở
 
 ## **Bandit Level 18 → Level 19**
 
