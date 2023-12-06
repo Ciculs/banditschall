@@ -136,7 +136,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 
 ## **Bandit Level 12 → Level 13**
 
-Sau 1 hồi tìm hiểu thì em biết le
+Sau 1 hồi tìm hiểu thì em biết `xxd` có thể tạo và
 
 ## **Bandit Level 13 → Level 14**
 
