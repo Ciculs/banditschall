@@ -110,7 +110,7 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 > ![imgs](/imgs/lv9.png)
 
 
-Password: \*\*
+Password: **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 
 ## **Bandit Level 10 → Level 11**
 
