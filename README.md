@@ -291,7 +291,10 @@ Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 Đề bài cho 2 file `passwords.old` và `passwords.new`. Pass cho lv tiếp theo ở dòng khác nhau giữa 2 file này.
 
-- Bằng lệnh `diff` , ta có thể dẽ
+- Bằng lệnh `diff` , ta có thể dễ dàng nhận ra sự khác nhau giữa 2 file.
+
+> ![imgs](/lv17.png)
+
 
 ## **Bandit Level 18 → Level 19**
 
