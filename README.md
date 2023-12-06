@@ -311,6 +311,6 @@ Mục tiêu: tìm cách để `ssh` mà không bị kick.
 
 Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để tắt text-terminal.
 
-ÁP
+ÁP DỤNG:
 
 ## **Bandit Level 19 → Level 20**
