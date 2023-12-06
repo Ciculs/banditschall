@@ -82,7 +82,7 @@ Ta dùng lệnh `find / -user bandit7 -group bandit6 -size 33c 2>;/dev/null` đ�
 
 ## **Bandit Level 7 → Level 8**
 
-Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`.
+Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. Theo như đề bài , ta có t
 
 ## **Bandit Level 8 → Level 9**
 
