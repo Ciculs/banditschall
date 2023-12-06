@@ -105,7 +105,7 @@ Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## **Bandit Level 9 → Level 10**
 
-Đề bài nói password nằm trong file `data.txt và đứng đằng sau vài dấu `=\`
+Đề bài nói password nằm trong file `data.txt` , là kí tự đọc được và đứng đằng sau vài dấu `=`. Đầu tiền , `ls` ra thì có duy nhất
 
 ## **Bandit Level 10 → Level 11**
 
