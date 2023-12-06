@@ -314,10 +314,10 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 ÁP DỤNG:
 
 - Dùng lệnh `ssh bandit18@bandit.labs.overthewire.org -p 2220 -T` để kết nối tới server.
-- Do có option `-T` nên server không đọc file `.bashrc` (cuối file bashrc có e) --&gt; không bị disconnect.
+- Do có option `-T` nên server không đọc file `.bashrc` (cuối file `bashrc` có `exit` nên bị disconnect) --&gt; không bị disconnect.
 - `cat readme` , ta có password.
 
-> ![imgs]()
+> ![imgs](/lv18)
 
 
 ## **Bandit Level 19 → Level 20**
