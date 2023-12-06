@@ -92,7 +92,7 @@ Bằng lệnh `ls` , có thể thấy có đúng duy nhất 1 file `data.txt`. T
 > ![imgs](/imgs/lv7.png)
 
 
-Password: \`\*
+Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
 ## **Bandit Level 8 → Level 9**
 
