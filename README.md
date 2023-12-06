@@ -245,7 +245,7 @@ Password:**jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
 
 Bài này yêu cầu phải kết nối tới `localhost` qua port `30001` bằng ssl.
 
-- 
+- Ta dùng `openssl`  để kết nối tới `localhost` bằng lệnh `openssl s_client localhost:30001`
 
 ## **Bandit Level 16 → Level 17**
 
