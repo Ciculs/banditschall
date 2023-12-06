@@ -114,7 +114,9 @@ Password: **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 
 ## **Bandit Level 10 → Level 11**
 
-Theo đề bài thì password dc enc base64. Sau khi `ls` , thấy có duy nhất 1 file `data.txt`, `cat` ra thì có được 1 chuỗi base64 đã enc
+Theo đề bài thì password dc enc base64. Sau khi `ls` , thấy có duy nhất 1 file `data.txt`, `cat` ra thì có được 1 chuỗi base64 đã enc , dùng cyberchef giải base64 , có được password.
+
+> ơ
 
 ## **Bandit Level 11 → Level 12**
 
