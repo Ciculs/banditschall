@@ -101,7 +101,7 @@ Sau khi `ls` thì ta thấy có duy nhất 1 file , `cat` file ra thì thấy c�
 > ![imgs](/imgs/lv8.png)
 
 
-Password: \*\*
+Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## **Bandit Level 9 → Level 10**
 
