@@ -200,7 +200,9 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 - Giải nén file bằng `tar -xf` , có ra 1 file `data5.bin`
 - Dùng `file` để xác định kiểu file, thấy là 1 file `tar` , tiếp tục giải nén.
 - Giải nén ra được file `data6.bin` , xác định bằng `file` , đây là 1 file `bzip2`
-- Cứ tiếp tục giải
+
+
+- Cứ tiếp tục giải nén , ta có
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
