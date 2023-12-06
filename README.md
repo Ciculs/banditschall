@@ -264,7 +264,7 @@ Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 - Ta kết nối tới từng port bằng `openssl` và nhận thấy port `311790` kết nối và trả đúng kết quả là 1 đoạn RSA.
 
-> ![imgs](/imgs/lv16rsa)
+> ![imgs](/imgs/lv16rsa.png)
 
 
 - Ta tạo 1 folder ở `/tmp` và đi đến folder.
