@@ -243,7 +243,7 @@ Password:**jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt**
 
 ## **Bandit Level 15 → Level 16**
 
-**Bài này yêu cầu phải kết**
+Bài này yêu cầu phải kết nối tới localyh
 
 ## **Bandit Level 16 → Level 17**
 
