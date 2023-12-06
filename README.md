@@ -115,7 +115,8 @@ Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 - Sau khi `ls` thì ta thấy có duy nhất 1 file.
 - `cat` file ra thì thấy có rất nhiều giá trị 
 - Theo đề bài , cần tìm ra 1 giá trị không bị trùng và duy nhất.
-- Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file, tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).Sau khi lọc xong giá trị , ta có duy nhất 1 dòng, đó là password cần tìm.
+- Bước đầu , ta dùng lệnh `sort` để sắp xếp lại các giá trị trong file.
+- Tiếp theo dùng `uniq -u` để lọc ra giá trị duy nhất của file(option `-u` dùng lể lọc ra giá trị unique (là duy nhất)).Sau khi lọc xong giá trị , ta có duy nhất 1 dòng, đó là password cần tìm.
 
 > ![imgs](/imgs/lv8.png)
 
