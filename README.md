@@ -327,4 +327,4 @@ Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
 Đề bài có hint về loại file `setuid` , sau khi đọc wiki, ta thấy file đó cấp quyền tạm thời và có quyền exec các lệnh.
 
 - `ssh` với usr `bandit19` , dùng lệnh `ls -la` thấy có file `bandit20-do` và đã có quyền exec.
-- \`./bandit20-do
+- `./bandit20-do cat /etc/bandit_pass/bandit20` ta có pass cho lv tiếp th
