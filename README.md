@@ -173,7 +173,7 @@ Password: **JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv**
 > ![imgs](/imgs/1.png)
 
 
-- Ta đổi đuôi file thành `gz` để giải nén.
+- Ta đổi đuôi file thành `gz` để giải nén bằng lệnh `mv 1 1.gz`
 
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
