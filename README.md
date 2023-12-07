@@ -376,6 +376,8 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 > ![imgs](/imgs/lv23.png)
 
 
+Password: \*\*
+
 ## **Bandit Level 23 → Level 24**
 
 ## **Bandit Level 24 → Level 25**
