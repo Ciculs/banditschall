@@ -350,7 +350,7 @@ Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 
 ## **Bandit Level 21 → Level 22**
 
-Ở đây , bài cho chúng ta biết về 1 `daemon` `cron`, thực hiện các
+Ở đây , bài cho chúng ta biết về 1 `daemon` `cron`, thực hiện liên tục những tác vụ lặp đi lặp lại.
 
 ## **Bandit Level 22 → Level 23**
 
