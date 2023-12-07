@@ -369,7 +369,7 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 
 - Cũng như ở lv trước , ta `cd /etc/cron.d/`.
 - Đọc file `cronjob_bandit23`, ta thấy tác vụ như ở lv trước.
-- Đọc file `/usr/bin/cronjob_bandit23.sh` , ta thấy file này enc
+- Đọc file `/usr/bin/cronjob_bandit23.sh`
 
 ## **Bandit Level 23 → Level 24**
 
