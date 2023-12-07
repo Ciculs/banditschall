@@ -367,7 +367,7 @@ Password: **WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff**
 
 Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 
-- Cũng như ở lv trước ,
+- Cũng như ở lv trước , ta `cd /etc/cron.d/` và đọc file \`\*
 
 ## **Bandit Level 23 → Level 24**
 
