@@ -365,7 +365,9 @@ Password: **WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff**
 
 ## **Bandit Level 22 → Level 23**
 
-Tương tự như lv trước.
+Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
+
+- Cũng như ở lv trước ,
 
 ## **Bandit Level 23 → Level 24**
 
