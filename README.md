@@ -386,7 +386,7 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 - Thực thi lệnh `echo I am user bandit23 | md5sum | cut -d ' ' -f 1` , ta có tên folder chứa password cho lv tiếp theo.
 - `cat /tmp/8ca319486bfbbc3663ea0fbe81326349` , ta có password.
 
-**GIẢI THÍCH** : Do file này được chạy tự động bởi `cron` sau mỗi lần restart nên sửa `$myname` là ta có tên của file chứa
+**GIẢI THÍCH** : Do file này được chạy tự động bởi `cron` sau mỗi lần restart nên sửa `$myname` là ta có tên của file chứa password `bandit23`.
 
 > ![imgs](/imgs/lv23.png)
 
