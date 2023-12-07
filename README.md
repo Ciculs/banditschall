@@ -388,8 +388,10 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 
 > ![imgs](/imgs/lv23.png)
 
+> ![imgs](/imgs/lv23cat.png)
 
-Password: **WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff**
+
+Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 ## **Bandit Level 23 → Level 24**
 
