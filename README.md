@@ -370,7 +370,8 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 - Cũng như ở lv trước , ta `cd /etc/cron.d/`.
 - Đọc file `cronjob_bandit23`, ta thấy tác vụ như ở lv trước.
 - Đọc file `/usr/bin/cronjob_bandit23.sh` , ta thấy file sẽ mã hoá `md5` cái gì gì đó nhưng mà hoa mắt quá , em chạy file luôn.
-- Sau khi chạy file, file sẽ thực thi gh
+- Sau khi chạy file, file sẽ thực thi ghi dữ liệu vào `/tmp/8169b67bd894ddbb4412f91573b38db3`.
+- Đọc file `/tmp/8169b67bd894ddbb4412f91573b38db3` , ta có flag.
 
 ## **Bandit Level 23 → Level 24**
 
