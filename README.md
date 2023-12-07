@@ -370,7 +370,7 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 - Cũng như ở lv trước , ta `cd /etc/cron.d/`.
 - Đọc file `cronjob_bandit23`, ta thấy tác vụ như ở lv trước.
 - Đọc file `/usr/bin/cronjob_bandit23.sh` , ta thấy file sẽ mã hoá `md5` cái gì gì đó nhưng mà hoa mắt quá , em chạy file luôn.
-- NHƯNG
+- **NHƯNG** file này đang chạy ở bandit22 nên ta sẽ không có password chuẩn.
 - Đọc file `/tmp/8169b67bd894ddbb4412f91573b38db3` , ta có flag.
 
 > ![imgs](/imgs/lv23.png)
