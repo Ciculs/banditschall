@@ -358,6 +358,9 @@ Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 - Đọc file `cronjob_bandit22.sh` , ta biết được file này sẽ đọc dữ liệu từ `/etc/bandit_pass/bandit22` và lưu vào `/tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv`.
 - Tiếp tục đọc file `/tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv` ,ta có password.
 
+> ![imgs](/imgs/lv22.png)
+
+
 Password: **WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff**
 
 ## **Bandit Level 22 → Level 23**
