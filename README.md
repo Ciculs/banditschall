@@ -352,7 +352,7 @@ Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 
 Ở đây , bài cho chúng ta biết về 1 `daemon` tên `cron`, thực hiện liên tục những tác vụ lặp đi lặp lại.
 
-- Đầu tiên
+- Đầu tiên , `cd /etc/cron.d/` , dùng lệnh `ls`
 
 ## **Bandit Level 22 → Level 23**
 
