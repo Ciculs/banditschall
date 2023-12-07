@@ -350,6 +350,8 @@ Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 
 ## **Bandit Level 21 → Level 22**
 
+Ở đây , bài cho chúng ta biết về 1 \`deamon
+
 ## **Bandit Level 22 → Level 23**
 
 ## **Bandit Level 23 → Level 24**
