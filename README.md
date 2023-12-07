@@ -317,7 +317,7 @@ Sau khi tìm hiểu ở nhiều nguồn thì em biết có option `-T` để t�
 - Do có option `-T` nên server không đọc file `.bashrc` (cuối file `bashrc` có `exit` nên bị disconnect) --&gt; không bị disconnect.
 - `cat readme` , ta có password.
 
-> ![imgs](/lv18ssh.png)
+> ![imgs](/imgs/lv18ssh.png)
 
 
 Password: **awhqfNnAbc1naukrpqDYcF95h7HoMTrC**
