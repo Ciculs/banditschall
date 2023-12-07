@@ -384,7 +384,7 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 ```
 
 - Thực thi lệnh `echo I am user $myname | md5sum | cut -d ' ' -f 1` , ta có tên folder chứa password cho lv tiếp theo.
-- \`cat /
+- `cat /tmp/8ca319486bfbbc3663ea0fbe81326349` , ta có password.
 
 > ![imgs](/imgs/lv23.png)
 
