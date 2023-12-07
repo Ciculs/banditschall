@@ -371,6 +371,18 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 - Đọc file `cronjob_bandit23`, ta thấy tác vụ như ở lv trước.
 - Đọc file `/usr/bin/cronjob_bandit23.sh` , ta thấy file sẽ mã hoá `md5` cái gì gì đó nhưng mà hoa mắt quá , em chạy file luôn.
 - **NHƯNG** file này đang chạy ở `bandit22` nên ta sẽ không có password chuẩn.
+
+```
+#!/bin/bash
+
+myname=$(whoami)
+mytarget=$(echo I am user $myname | md5sum | cut -d ' ' -f 1)
+
+echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
+
+cat /etc/bandit_pass/$myname > /tmp/$mytarget
+```
+
 - Đọc file `/tmp/8169b67bd894ddbb4412f91573b38db3` , ta có flag.
 
 > ![imgs](/imgs/lv23.png)
