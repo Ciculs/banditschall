@@ -373,6 +373,9 @@ Tương tự như lv trước. Nhưng code ở lv này phức tạp hơn.
 - Sau khi chạy file, file sẽ thực thi ghi dữ liệu vào `/tmp/8169b67bd894ddbb4412f91573b38db3`.
 - Đọc file `/tmp/8169b67bd894ddbb4412f91573b38db3` , ta có flag.
 
+> ![imgs](/imgs/lv23.png)
+
+
 ## **Bandit Level 23 → Level 24**
 
 ## **Bandit Level 24 → Level 25**
