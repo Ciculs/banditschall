@@ -3,6 +3,8 @@
 ## SSH Information
 
 > `Host: bandit.labs.overthewire.org`
+> 
+>
 > `Port: 2220`
 
 ## **Bandit Level 0 → Level 1**
