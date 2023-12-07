@@ -383,7 +383,8 @@ echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
 cat /etc/bandit_pass/$myname > /tmp/$mytarget
 ```
 
-- Đọc file `/tmp/8169b67bd894ddbb4412f91573b38db3` , ta có flag.
+- Thực thi lệnh `echo I am user $myname | md5sum | cut -d ' ' -f 1` , ta có tên folder chứa password cho lv tiếp theo.
+- \`cat /
 
 > ![imgs](/imgs/lv23.png)
 
