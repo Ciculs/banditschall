@@ -355,7 +355,7 @@ Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 - Đầu tiên , `cd /etc/cron.d/` , dùng lệnh `ls` , ta thấy có rất nhiều file của các bandit khác nhưng ở đây, ta chỉ quan tâm đến `bandit22`.
 - `cat *bandit22` để đọc file. 
 - Theo file thì cứ mỗi lần máy `reboot` , file `/usr/bin/cronjob_bandit22.sh` sẽ chạy 1 lần.
-- Đọc file `cronjob_bandit22.sh , ta biết được`
+- Đọc file `cronjob_bandit22.sh , ta biết được file này sẽ đọc dữ liệu từ`
 
 ## **Bandit Level 22 → Level 23**
 
