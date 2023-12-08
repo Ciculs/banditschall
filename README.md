@@ -488,6 +488,11 @@ Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 - Dùng lệnh `ls` thấy có file `setuid` của `bandit27`.
 - Dùng file `setuid` , ta đọc được password của bandit27 tại `/etc/bandit_pass/bandit27`
 
+> ![imgs](/imgs/lv26.png)
+
+
+Password: \*\*
+
 ## **Bandit Level 27 → Level 28**
 
 ## **Bandit Level 28 → Level 29**
