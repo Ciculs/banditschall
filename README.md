@@ -495,6 +495,8 @@ Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 
 ## **Bandit Level 27 → Level 28**
 
+Ở lv này ,
+
 ## **Bandit Level 28 → Level 29**
 
 ## **Bandit Level 29 → Level 30**
