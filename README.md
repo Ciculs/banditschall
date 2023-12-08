@@ -421,8 +421,10 @@ cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 - Sau vài lần check bằng `cat /var/spool/bandit24/foo/ciculs.sh` , thấy file biến mất , ta biết được file đã thực thi.
 - Đọc file output , ta có password cho lv tiếp theo.
 
-> ![imgs](/imgs/lv23)
+> ![imgs](/imgs/lv23tieptheo.png)
 
+
+Password: **VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
 
 ## **Bandit Level 24 → Level 25**
 
