@@ -552,7 +552,8 @@ Như lv trên.
 - Sau khi tạo folder và clone repo, đọc file readme , không thấy có gì.
 - Check log và branch cũng không có gì.
 - Ta sẽ xem thử tới git tagging
-- `git tag`
+- `git tag` , ta thấy có 1 tag tên `secret`.
+- \`git show s
 
 ## **Bandit Level 31 → Level 32**
 
