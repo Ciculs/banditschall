@@ -514,8 +514,10 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 - Tương tự như lv trước , `git clone` repo về.
 - `cd repo`, `cat *`
-- Ta thấy mật khẩu cho bandit29 đã bị ẩn.
-- Dùng `git log` để xem lịch sử commit .
+- Ta thấy mật khẩu cho `bandit29` đã bị ẩn.
+- Dùng `git log` để xem lịch sử `commit`.
+- ta thấy có 1 commit có tên `fix info leak`.
+- Dùng lệnh
 
 Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
 
