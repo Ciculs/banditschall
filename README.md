@@ -395,7 +395,7 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 ## **Bandit Level 23 → Level 24**
 
-Ở
+Ở chall này ,
 
 ```bash
 #!/bin/bash
