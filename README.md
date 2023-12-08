@@ -534,7 +534,9 @@ Vẫn tương tự như ở lv trước.
 
 - Sau khi clone repo về , đọc file README.md , không thấy có gì.
 - `git log` cũng không thấy commit nào đáng chú ý.
-- Thử đổi sang
+- Thử đổi sang branch khác xem sao.
+- Thử từng cái một.
+- `git checkout dev` để c
 
 ## **Bandit Level 30 → Level 31**
 
