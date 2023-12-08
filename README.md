@@ -530,6 +530,8 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 ## **Bandit Level 29 → Level 30**
 
+Vẫn tương tự như ở lv trước nhưng tớ
+
 ## **Bandit Level 30 → Level 31**
 
 ## **Bandit Level 31 → Level 32**
