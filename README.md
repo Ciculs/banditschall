@@ -415,7 +415,8 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 ```
 
-- Sau khi tạo file xong , dùng lệnh `chmod 777 *` để cấp quyền
+- Sau khi tạo file xong , dùng lệnh `chmod 777 *` để cấp quyền cho file chạy.
+- Di chuye
 
 ## **Bandit Level 24 → Level 25**
 
