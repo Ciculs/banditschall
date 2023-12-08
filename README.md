@@ -577,3 +577,5 @@ Cũng như ở lv trước
 Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 
 ## **Bandit Level 32 → Level 33**
+
+Ở chall này ,
