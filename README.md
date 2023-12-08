@@ -504,7 +504,9 @@ Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 - `cd repo` , thấy có 1 file `README`
 - `cat *` , có password cho chall tiếp theo.
 
-> !\[imgs\]
+> !\[imgs\](/imgs/lv27.png
+
+Password: \*\*
 
 ## **Bandit Level 28 → Level 29**
 
