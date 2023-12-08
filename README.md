@@ -549,9 +549,9 @@ Password: **xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS**
 
 Như lv trên.
 
-- Sau khi tạo folder và clone repo, đọc file readme , không thấy có gì.
+- Sau khi tạo folder và `clone repo`, đọc file `readme`, không thấy có gì.
 - Check log và branch cũng không có gì.
-- Ta sẽ xem thử tới git tagging
+- Ta sẽ xem thử tới `git tagging`
 - `git tag` , ta thấy có 1 tag tên `secret`.
 - `git show secret` , ta có password.
 
@@ -564,7 +564,7 @@ Password: **OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt**
 
 Cũng như ở lv trước
 
-- Sau khi `git clone`, đọc file `README.md` , thấy file yêu cầu phải push lên repo.
+- Sau khi `git clone`, đọc file `README.md` , thấy file yêu cầu phải `push` lên repo.
 - Tạo file `key.txt` theo như yêu cầu của chall.
 - `git add -f key.txt` để add file key vào commit.
 - `git commit -m"a"` để tạo messsage cho commit.
