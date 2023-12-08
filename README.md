@@ -547,6 +547,10 @@ Password: **xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS**
 
 ## **Bandit Level 30 → Level 31**
 
+Như lv trên.
+
+- Sau khi tạo f
+
 ## **Bandit Level 31 → Level 32**
 
 ## **Bandit Level 32 → Level 33**
