@@ -484,6 +484,8 @@ Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 
 Đề bài không hint gì cả.
 
+- Bằng cách đã sử dụng ở lv trước, `ssh` được vào `bandit26`.
+
 ## **Bandit Level 27 → Level 28**
 
 ## **Bandit Level 28 → Level 29**
