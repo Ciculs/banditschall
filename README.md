@@ -486,7 +486,7 @@ Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 
 - Bằng cách đã sử dụng ở lv trước, `ssh` được vào `bandit26`.
 - Dùng lệnh `ls` thấy có file `setuid` của `bandit27`.
-- Dùng lênh `id` , ta biết được file này được cấp quyền `euid của bandit27` , còn lại là `bandit26`.
+- Dùng file `setuid` , ta đọc được password của ban
 
 ## **Bandit Level 27 → Level 28**
 
