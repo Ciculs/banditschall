@@ -431,7 +431,7 @@ Password: **VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
 Bài này yêu cầu chúng ta phải bruteforce vào netcat port 30002 để lấy pass cho chall tiếp theo.
 
 - Đầu tiên , tạo folder con ở `/tmp`.
-- Tới folder bằng `cd` và tạo 1
+- Tới folder bằng `cd` và tạo 1 file bash bằng `nano test.sh` với nội dung bên dưới.
 
 ```bash
 #! /bin/bash 
