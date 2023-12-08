@@ -395,6 +395,12 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 ## **Bandit Level 23 → Level 24**
 
+```
+#!/bin/bash
+
+cat /etc/bandit_pass/bandit24 > /tmp/ciculs/bandit24.pass
+```
+
 ## **Bandit Level 24 → Level 25**
 
 ## **Bandit Level 25 → Level 26**
