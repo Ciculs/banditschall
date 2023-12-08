@@ -397,6 +397,8 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 Ở chall này , theo note thì file sẽ bị xoá sau khi được thực thi.
 
+- Bước đầu, chúng ta
+
 ```bash
 #!/bin/bash
 
