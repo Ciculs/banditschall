@@ -530,7 +530,9 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 ## **Bandit Level 29 → Level 30**
 
-Vẫn tương tự như ở lv trước nhưng tớ
+Vẫn tương tự như ở lv trước.
+
+- Sau khi clone repo về , đọc file README.md , không thấy có gì,
 
 ## **Bandit Level 30 → Level 31**
 
