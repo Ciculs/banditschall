@@ -549,7 +549,9 @@ Password: **xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS**
 
 Như lv trên.
 
-- Sau khi tạo f
+- Sau khi tạo folder và clone repo, đọc file readme , không thấy có gì.
+- Check log và branch cũng không có gì.
+- Ta
 
 ## **Bandit Level 31 → Level 32**
 
