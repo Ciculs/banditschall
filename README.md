@@ -553,7 +553,12 @@ Như lv trên.
 - Check log và branch cũng không có gì.
 - Ta sẽ xem thử tới git tagging
 - `git tag` , ta thấy có 1 tag tên `secret`.
-- \`git show s
+- `git show secret` , ta có password.
+
+> ![imgs](/imgs/lv30.png)
+
+
+Password: \*\*
 
 ## **Bandit Level 31 → Level 32**
 
