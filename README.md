@@ -580,4 +580,4 @@ Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 
 Ở chall này , bài yêu cầu phải thoát khỏi cái UPPERSHELL
 
-- Sau khi thử `ls` hay \`ẽi
+- Sau khi thử `ls` hay `exit` không được , ta nhập vào `$0` vì nó là bắt đầu của 1 shell.
