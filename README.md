@@ -465,7 +465,8 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - Lệnh `more` dùng để đọc nội dung file từng dòng.
 - Ta thu nhỏ cửa sổ `ssh` để `more` không hiển thị hết nội dung.
 - Ấn `v` để vào `vim`.
-- Nhập lệnh
+- Nhập lệnh `:set shell=/bin/bash`
+- Vào s
 
 ## **Bandit Level 26 → Level 27**
 
