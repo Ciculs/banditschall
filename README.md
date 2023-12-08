@@ -536,7 +536,8 @@ Vẫn tương tự như ở lv trước.
 - `git log` cũng không thấy commit nào đáng chú ý.
 - Thử đổi sang branch khác xem sao.
 - Thử từng cái một.
-- `git checkout dev` để chuyển branch `master` sang `dev`.
+- `git checkout dev` để chuyển branch `origin` sang `dev`.
+- Kiểm tra log commit\`
 
 ## **Bandit Level 30 → Level 31**
 
