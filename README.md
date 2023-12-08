@@ -510,6 +510,10 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 ## **Bandit Level 28 → Level 29**
 
+Ở bài này , đề bài y hệt lv trước.
+
+- Tương tự như lv trước , `git clone` repo về.
+
 Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
 
 ## **Bandit Level 29 → Level 30**
