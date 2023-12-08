@@ -399,7 +399,7 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 - Bước đầu, chúng ta `cd /etc/cron.d/`.
 - Dùng lệnh `cat *bandit24`.
-- Tiếp tục đọc file `bandit24.sh` ta thấy được file này sẽ thực thi file trong folder `/var/spool/bandit24/foo`.
+- Tiếp tục đọc file `bandit24.sh` ta thấy được file này sẽ thực thi file trong folder `/var/spool/$myname/foo`.
 
 > ![igms](/imgs/lv23cron.png)
 
