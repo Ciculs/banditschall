@@ -428,6 +428,8 @@ Password: **VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
 
 ## **Bandit Level 24 → Level 25**
 
+Bài này yêu cầu chúng ta phải bruteforce vào netcat port 30002 để lấy 
+
 ```
 #! /bin/bash 
 
