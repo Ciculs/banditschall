@@ -398,12 +398,12 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 Ở chall này , theo note thì file sẽ bị xoá sau khi được thực thi.
 
 - Bước đầu, chúng ta `cd /etc/cron.d/`.
-- Dùng lệnh `cat *bandit24`
+- Dùng lệnh `cat *bandit24` , ta thấy được file này sẽ thực thi file
 
 ```bash
 #!/bin/bash
 
-cat /etc/bandit_pass/bandit24 > /tmp/ciculs/bandit24.pass
+cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 ```
 
 ## **Bandit Level 24 → Level 25**
