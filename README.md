@@ -538,7 +538,12 @@ Vẫn tương tự như ở lv trước.
 - Thử từng cái một.
 - `git checkout dev` để chuyển branch `origin` sang `dev`.
 - Kiểm tra `log commit` , thấy có 1 commit `add data needed for development`.
-- Thử
+- Thử đọc commit , thấy password của lv tiếp theo.
+
+> ![imgs](/imgs/lv29.png)
+
+
+Password:
 
 ## **Bandit Level 30 → Level 31**
 
