@@ -419,7 +419,10 @@ cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 - Di chuyển file đến `/var/spool/bandit24/foo` bằng `cp`.
 - Đợi 1 vài phút để cron thực hiện tác vụ.
 - Sau vài lần check bằng `cat /var/spool/bandit24/foo/ciculs.sh` , thấy file biến mất , ta biết được file đã thực thi.
-- Đọc file output , ta
+- Đọc file output , ta có password cho lv tiếp theo.
+
+> ![imgs](/imgs/lv23)
+
 
 ## **Bandit Level 24 → Level 25**
 
