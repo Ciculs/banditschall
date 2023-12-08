@@ -467,7 +467,7 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - Ấn `v` để vào `vim`.
 - Nhập lệnh `:set shell=/bin/bash`
 - Vào lại shell bằng lệnh `:sh`.
-- Ta đã `ssh` vào bandit26\` thành công.
+- Ta đã `ssh` vào `bandit26` thành công.
 
 ## **Bandit Level 26 → Level 27**
 
