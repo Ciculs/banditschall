@@ -510,6 +510,8 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 ## **Bandit Level 28 → Level 29**
 
+Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
+
 ## **Bandit Level 29 → Level 30**
 
 ## **Bandit Level 30 → Level 31**
