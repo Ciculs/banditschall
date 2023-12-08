@@ -450,6 +450,9 @@ done
 - Lưu file và cấp quyền `exec` cho file bằng `chmod +x *`.
 - Chạy file kết hợp với `nc localhost 30002` , ta có flag.
 
+> ![imgs](/imgs/lv24pass.png)
+
+
 Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
 ## **Bandit Level 25 → Level 26**
