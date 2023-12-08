@@ -592,4 +592,7 @@ Password: **odHo63fHiFqcWWJG9rLiLDtPm45KzUKy**
 
 ## **Bandit Level 33 → Level 34**
 
-\*\*WELDONE
+**WELL DONE**
+
+> ![imgs](?i)
+
