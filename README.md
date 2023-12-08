@@ -532,7 +532,9 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 Vẫn tương tự như ở lv trước.
 
-- Sau khi clone repo về , đọc file README.md , không thấy có gì,
+- Sau khi clone repo về , đọc file README.md , không thấy có gì.
+- `git log` cũng không thấy commit nào đáng chú ý.
+- Thử đổi sang
 
 ## **Bandit Level 30 → Level 31**
 
