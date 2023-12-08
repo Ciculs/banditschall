@@ -401,7 +401,7 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 - Dùng lệnh `cat *bandit24`.
 - Tiếp tục đọc file `bandit24.sh` ta thấy được file này sẽ thực thi file trong folder `/var/spool/bandit24/foo`.
 
-> ![igms](/imgs/lv23cron.)
+> ![igms](/imgs/lv23cron.png)
 
 
 - Tạo 1 folder trong `tmp` tên `ciculs`.
@@ -414,6 +414,8 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 ```
+
+- Sau khi tạo file xong , dùng lệnh `chmod 777 *` để cấp quyền
 
 ## **Bandit Level 24 → Level 25**
 
