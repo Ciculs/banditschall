@@ -569,6 +569,11 @@ Cũng như ở lv trước
 - `git add -f key.txt` để add file key vào commit.
 - `git commit -m"a"` để tạo messsage cho commit.
 - `git push` để đẩy commit lên.
-- Sau khi push thành công , ta có f
+- Sau khi push thành công , ta có flag.
+
+> ![imgs](/imgs/lv31.png)
+
+
+Password: \*\*
 
 ## **Bandit Level 32 → Level 33**
