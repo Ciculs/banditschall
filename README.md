@@ -567,6 +567,8 @@ Cũng như ở lv trước
 - Sau khi git clone, đọc file README.md , thấy file yêu cầu phải push lên repo.
 - Tạo file `key.txt` theo như yêu cầu của chall.
 - `git add -f key.txt` để add file key vào commit.
-- \`git commit -m"
+- `git commit -m"a"` để tạo messsage cho commit.
+- `git push` để đẩy commit lên.
+- Sau khi push thành công , ta có f
 
 ## **Bandit Level 32 → Level 33**
