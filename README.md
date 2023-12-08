@@ -428,6 +428,17 @@ Password: **VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
 
 ## **Bandit Level 24 → Level 25**
 
+```
+#! /bin/bash 
+
+pass=VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
+
+for i in {0000..9999}
+do
+        echo "$pass" "$i"
+done | nc localhost 30002
+```
+
 ## **Bandit Level 25 → Level 26**
 
 ## **Bandit Level 26 → Level 27**
