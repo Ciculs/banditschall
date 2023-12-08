@@ -565,6 +565,8 @@ Password: **OoffzGDlzhAlerFJ2cAiz1D41JW1Mhmt**
 Cũng như ở lv trước
 
 - Sau khi git clone, đọc file README.md , thấy file yêu cầu phải push lên repo.
-- Tạo file `key.txt` theo như y
+- Tạo file `key.txt` theo như yêu cầu của chall.
+- `git add -f key.txt` để add file key vào commit.
+- \`git commit -m"
 
 ## **Bandit Level 32 → Level 33**
