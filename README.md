@@ -473,6 +473,10 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - Vào lại shell bằng lệnh `:sh`.
 - Ta đã `ssh` vào `bandit26` thành công.
 - Check lại user bằng `id`. Đúng bandit26
+- Lấy password bằng `cat /etc/bandit_pass/bandit26`. Có pass
+
+> ![iMGS](/)
+
 
 ## **Bandit Level 26 → Level 27**
 
