@@ -444,7 +444,8 @@ do
 done
 ```
 
-> !
+> ![imgs](/imgs/lv24dir.png)
+
 
 - Lưu file và cấp quyền `exec` cho file bằng `chmod +x *`.
 - Chạy file kết hợp với `nc localhost 30002` , ta có flag.
