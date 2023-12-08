@@ -495,7 +495,9 @@ Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 
 ## **Bandit Level 27 → Level 28**
 
-Ở lv này ,
+Ở lv này , đề bài yêu cầu `git clone` cơ bản.
+
+- Ta tạo 1 folder ở `tmp`
 
 ## **Bandit Level 28 → Level 29**
 
