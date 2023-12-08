@@ -506,7 +506,7 @@ Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 
 > !\[imgs\](/imgs/lv27.png
 
-Password: \*\*
+Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 
 ## **Bandit Level 28 → Level 29**
 
