@@ -585,5 +585,7 @@ Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 - `whoami` , thấy `bandit33`.
 - `cat /etc/bandit_pass/bandit33` , có password.
 
-> ![imgs](/imgs/b)
+> ![imgs](/imgs/lv32.png)
 
+
+Password: \*\*
