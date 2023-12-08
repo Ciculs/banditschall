@@ -515,7 +515,7 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 - Tương tự như lv trước , `git clone` repo về.
 - `cd repo`, `cat *`
 
-> ![imgs](/imgs/lv29git.)
+> ![imgs](/imgs/lv29git.png)
 
 
 - Ta thấy mật khẩu cho `bandit29` đã bị ẩn.
@@ -524,7 +524,9 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 - Dùng lệnh `git show 14f754b3ba6531a2b89df6ccae6446e8969a41f3` để xem chi tiết commit.
 - Ta thấy có pass của `bandit29`.
 
-Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
+> ![imgs](/imgs/lv29.png)
+
+> Password:**tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
 
 ## **Bandit Level 29 → Level 30**
 
