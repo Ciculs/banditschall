@@ -395,7 +395,7 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 
 ## **Bandit Level 23 → Level 24**
 
-Ở chall này , theo note thì file sẽ bị xoá sau khi dư
+Ở chall này , theo note thì file sẽ bị xoá sau khi được thực thi.
 
 ```bash
 #!/bin/bash
