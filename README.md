@@ -578,4 +578,6 @@ Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 
 ## **Bandit Level 32 → Level 33**
 
-Ở chall này ,
+Ở chall này , bài yêu cầu phải thoát khỏi cái UPPERSHELL
+
+- Sau khi thử `ls` hay \`ẽi
