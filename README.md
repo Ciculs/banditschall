@@ -464,7 +464,8 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - `cat /usr/bin/showtext`, ta thấy trong file thực thi lệnh `more`.
 - Lệnh `more` dùng để đọc nội dung file từng dòng.
 - Ta thu nhỏ cửa sổ `ssh` để `more` không hiển thị hết nội dung.
-- Ấn `v` để vào `vim`
+- Ấn `v` để vào `vim`.
+- Nhập lệnh
 
 ## **Bandit Level 26 → Level 27**
 
