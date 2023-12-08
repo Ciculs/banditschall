@@ -475,8 +475,10 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - Check lại user bằng `id`. Đúng bandit26
 - Lấy password bằng `cat /etc/bandit_pass/bandit26`. Có pass
 
-> ![iMGS](/)
+> ![iMGS](/imgs/lv25.png)
 
+
+Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 
 ## **Bandit Level 26 → Level 27**
 
