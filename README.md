@@ -537,7 +537,8 @@ Vẫn tương tự như ở lv trước.
 - Thử đổi sang branch khác xem sao.
 - Thử từng cái một.
 - `git checkout dev` để chuyển branch `origin` sang `dev`.
-- Kiểm tra log commit\`
+- Kiểm tra `log commit` , thấy có 1 commit `add data needed for development`.
+- Thử
 
 ## **Bandit Level 30 → Level 31**
 
