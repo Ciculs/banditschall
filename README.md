@@ -459,7 +459,8 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
 Ở đề bài , bài cho ta biết shell của bandit26 không phải `/bin/bash` mà là cái khác.
 
-- `ssh` thử tới server bằng `sshkey` cho sẵn
+- `ssh` thử tới server bằng `sshkey` cho sẵn, sau khi kết nối thì liền bị disconnect.
+- \`cat /usr/passwd
 
 ## **Bandit Level 26 → Level 27**
 
