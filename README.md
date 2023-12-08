@@ -513,6 +513,9 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 Ở bài này , đề bài y hệt lv trước.
 
 - Tương tự như lv trước , `git clone` repo về.
+- `cd repo`, `cat *`
+- Ta thấy mật khẩu cho bandit29 đã bị ẩn.
+- Dùng `git log` để
 
 Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
 
