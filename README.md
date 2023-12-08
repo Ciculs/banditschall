@@ -430,7 +430,10 @@ Password: **VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar**
 
 Bài này yêu cầu chúng ta phải bruteforce vào netcat port 30002 để lấy pass cho chall tiếp theo.
 
-```báh
+- Đầu tiên , tạo folder con ở `/tmp`.
+- Tới folder bằng `cd` và tạo 1
+
+```bash
 #! /bin/bash 
 
 pass=VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
