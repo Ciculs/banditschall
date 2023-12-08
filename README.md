@@ -463,7 +463,7 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - `cat /etc/passwd` , ta thấy shell của `bandit26` là `/usr/bin/showtext`.
 - `cat /usr/bin/showtext`, ta thấy trong file thực thi lệnh `more`.
 
-> ![imgs](/imgs/)
+> ![imgs](/imgs/lv25shell.png)
 
 
 - Lệnh `more` dùng để đọc nội dung file từng dòng.
@@ -472,6 +472,7 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 - Nhập lệnh `:set shell=/bin/bash`
 - Vào lại shell bằng lệnh `:sh`.
 - Ta đã `ssh` vào `bandit26` thành công.
+- Check lại user bằng `id`. Đúng bandit26
 
 ## **Bandit Level 26 → Level 27**
 
