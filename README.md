@@ -588,4 +588,6 @@ Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 > ![imgs](/imgs/lv32.png)
 
 
-Password: \*\*
+Password: **odHo63fHiFqcWWJG9rLiLDtPm45KzUKy**
+
+## **Bandit Level 33 → Level 34**
