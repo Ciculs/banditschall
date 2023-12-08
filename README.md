@@ -517,7 +517,8 @@ Password: **AVanL161y9rsbcJIsFHuw35rjaOM19nR**
 - Ta thấy mật khẩu cho `bandit29` đã bị ẩn.
 - Dùng `git log` để xem lịch sử `commit`.
 - ta thấy có 1 commit có tên `fix info leak`.
-- Dùng lệnh
+- Dùng lệnh `git show 14f754b3ba6531a2b89df6ccae6446e8969a41f3` để xem chi tiết commit.
+- Ta thấy có pass của bandi
 
 Password: **tQKvmcwNYcFS6vmPHIUSI3ShmsrQZK8S**
 
