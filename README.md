@@ -388,7 +388,7 @@ cat /etc/bandit_pass/$myname > /tmp/$mytarget
 
 **GIẢI THÍCH** : Do file này được chạy tự động bởi `cron` sau mỗi lần restart nên sửa `$myname` là ta có tên của file chứa password `bandit23`.
 
-> ![imgs](/imgs/lv23.png)
+> ![imgs](/imgs/lv22.png)
 
 
 Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
