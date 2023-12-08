@@ -444,6 +444,8 @@ do
 done
 ```
 
+- Lưu file và cấp quyền
+
 Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
 ## **Bandit Level 25 → Level 26**
