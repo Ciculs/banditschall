@@ -551,7 +551,8 @@ Như lv trên.
 
 - Sau khi tạo folder và clone repo, đọc file readme , không thấy có gì.
 - Check log và branch cũng không có gì.
-- Ta
+- Ta sẽ xem thử tới git tagging
+- `git tag`
 
 ## **Bandit Level 31 → Level 32**
 
