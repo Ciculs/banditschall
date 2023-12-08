@@ -444,8 +444,10 @@ do
 done
 ```
 
+> !
+
 - Lưu file và cấp quyền `exec` cho file bằng `chmod +x *`.
-- Chạy file kết hợp với \`nc localhost 300
+- Chạy file kết hợp với `nc localhost 30002` , ta có flag.
 
 Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
