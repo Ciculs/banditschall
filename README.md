@@ -574,6 +574,6 @@ Cũng như ở lv trước
 > ![imgs](/imgs/lv31.png)
 
 
-Password: \*\*
+Password: **rmCBvG56y58BXzv98yZGdO7ATVL5dW8y**
 
 ## **Bandit Level 32 → Level 33**
