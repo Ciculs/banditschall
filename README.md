@@ -482,6 +482,8 @@ Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 
 ## **Bandit Level 26 → Level 27**
 
+Đề bài không hint gì cả.
+
 ## **Bandit Level 27 → Level 28**
 
 ## **Bandit Level 28 → Level 29**
