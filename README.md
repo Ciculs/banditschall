@@ -543,7 +543,7 @@ Vẫn tương tự như ở lv trước.
 > ![imgs](/imgs/lv29.png)
 
 
-Password:
+Password: **xbhV3HpNGlTIdnjUrdAlPzc2L6y9EOnS**
 
 ## **Bandit Level 30 → Level 31**
 
