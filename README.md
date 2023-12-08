@@ -461,7 +461,8 @@ Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
 - `ssh` thử tới server bằng `sshkey` cho sẵn, sau khi kết nối thì liền bị disconnect.
 - `cat /etc/passwd` , ta thấy shell của bandit26 là `/usr/bin/showtext`.
-- `cat /usr/bin/showtext`, ta t
+- `cat /usr/bin/showtext`, ta thấy trong file thực thi lệnh `more`.
+- Lệnh `more` dùng để đọc
 
 ## **Bandit Level 26 → Level 27**
 
