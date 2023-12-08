@@ -400,9 +400,13 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 - Bước đầu, chúng ta `cd /etc/cron.d/`.
 - Dùng lệnh `cat *bandit24`.
 - Tiếp tục đọc file `bandit24.sh` ta thấy được file này sẽ thực thi file trong folder `/var/spool/bandit24/foo`.
+
+> ![igms](/imgs/lv23cron.)
+
+
 - Tạo 1 folder trong `tmp` tên `ciculs`.
 - Mở folder `cd /tmp/ciculs`
-- Tạo file `ciculs.sh` bằn `nano ciculs.sh`
+- Tạo file `ciculs.sh` bằng lệnh `nano ciculs.sh`.
 - Ta sẽ tạo 1 file `bash` với nội dung như dưới.
 
 ```bash
