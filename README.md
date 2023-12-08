@@ -418,7 +418,8 @@ cat /etc/bandit_pass/bandit24 > /tmp/bandit24.txt
 - Sau khi tạo file xong , dùng lệnh `chmod 777 *` để cấp quyền cho file chạy.
 - Di chuyển file đến `/var/spool/bandit24/foo` bằng `cp`.
 - Đợi 1 vài phút để cron thực hiện tác vụ.
-- Sau vài lần check bằng `cat `
+- Sau vài lần check bằng `cat /var/spool/bandit24/foo/ciculs.sh` , thấy file biến mất , ta biết được file đã thực thi.
+- Đọc file output , ta
 
 ## **Bandit Level 24 → Level 25**
 
