@@ -398,7 +398,8 @@ Password: **QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G**
 Ở chall này , theo note thì file sẽ bị xoá sau khi được thực thi.
 
 - Bước đầu, chúng ta `cd /etc/cron.d/`.
-- Dùng lệnh `cat *bandit24` , ta thấy được file này sẽ thực thi file trong folder `/var/spool/bandit24/foo`.
+- Dùng lệnh `cat *bandit24`.
+- Tiếp tục đọc file `bandit24.sh` ta thấy được file này sẽ thực thi file trong folder `/var/spool/bandit24/foo`.
 - Ta sẽ tạo 1 file `bash` với nội dung như dưới.
 
 ```bash
