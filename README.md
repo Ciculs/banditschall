@@ -501,7 +501,10 @@ Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 - Dùng lệnh `git clone ssh://bandit27-git@localhost:2220/home/bandit27-git/repo` để clone repo.
 - Pass của user = pass của chall hiện tại.
 - Sau khi nhập xong , repo đã dc clone về thư mục
-- `cd repo` , thấy c
+- `cd repo` , thấy có 1 file `README`
+- `cat *` , có password cho chall tiếp theo.
+
+> !\[imgs\]
 
 ## **Bandit Level 28 → Level 29**
 
